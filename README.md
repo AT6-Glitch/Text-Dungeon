@@ -2,7 +2,7 @@
 
 **Version:** 1.0  
 **Author:** Lucas Wildcard  
-**License:** Custom “Play-Only” (See LICENSE file)
+**License:** Custom “Play-Only” (See LICENSE file) Please only play this i dont wanna have to deal with reposts so yea
 
 ---
 
