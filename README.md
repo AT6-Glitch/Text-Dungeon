@@ -17,7 +17,7 @@ Explore a dungeon board, encounter monsters, open chests, collect gold, and surv
 ## Features
 
 - Procedurally generated 10x10 dungeon board
-- Player movement (W/A/S/D), you might need to hit enter to move after typing ASW or D
+- Player movement (W/A/S/D), you might need to hit enter to move after typing (W/A/S/D)
 - Monsters to fight
 - Chests with loot
 - HP, gold, and inventory system
