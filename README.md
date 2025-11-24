@@ -1,5 +1,7 @@
 # Text Dungeon Lite
 
+***THIS IS NOW DISCONTINUED PERMANENTLY***
+
 **Version:** 1.0  
 **Author:** AT6  
 **License:** Custom “Play-Only” (See LICENSE file) Please only play this i dont wanna have to deal with reposts so yea
